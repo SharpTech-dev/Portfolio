@@ -1,0 +1,109 @@
+
+
+/* NavBar Section Starts */
+.mynav-col {
+    background:#ffffff !important;
+}
+
+nav ul li a {
+    color: #000!important;
+    font-size: 15px;
+    margin: auto 10px;
+    border: 1.5px solid #000000;
+}
+
+nav ul li a:hover {
+    color: #fff!important;
+    background-color: #B80017;
+    transition: .4s;
+    border: 1.5px solid #B80017;
+}
+/* NavBar Section Ends */
+
+
+/* Background Section Starts */
+body {
+  background-color: #fce8ec; 
+}
+
+section.masthead {
+  text-align: center;
+  color: white;
+  height: 850px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/img/courier_service_bg_rs.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+.text-adj h2 {
+  font-size: 60px;
+  font-family: Arial, Helvetica, Verdana, sans-serif;
+  padding-top: 350px;
+  text-transform: uppercase;
+}
+
+.text-adj p {
+  font-size: 30px;
+  font-family: Arial, Helvetica, Verdana, sans-serif;
+  margin-top: 15px;
+}
+
+.text-adj button {
+  margin-top: 20px;
+  font-size: larger;
+  border-radius: 0;
+  background-color: #820000;
+  border: #820000;
+  
+}
+/* Background Section Ends */
+
+
+/* About Section Starts */
+
+.about-col {
+  background-color: white;
+  padding: 30px 0px;
+}
+.gap-100 {
+  padding: 70px 0px;
+}
+/* About Section Ends */
+
+/* News Section Start */
+section.new-col {
+  background-color: #B80017;
+  min-height: 200px;
+}
+
+div.h-room {
+  padding-top: 50px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+div.h-room h2{
+  padding-left: 100px;
+  padding-bottom: 25px;
+}
+
+div.d-flex img {
+  height: 400px;
+}
+/* News Section Ends */
+
+
+/* Footer Section Begins */
+footer.bgcol {
+  background-color: #000;
+}
+
+p#copyright.text-white {
+  font-size: 20px;
+  font-family: Arial, Helvetica, Verdana, sans-serif;
+  margin-bottom: 0px;
+}
+
+/* Footer Section Ends */
